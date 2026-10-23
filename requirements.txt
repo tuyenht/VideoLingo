@@ -16,7 +16,7 @@ resampy==0.4.3
 # Keep spaCy on the 3.8 line. Exact patch pins can be unavailable for a
 # specific Python minor version on some mirrors, which makes setup brittle.
 spacy>=3.8.7,<3.9
-streamlit==1.49.1
+streamlit==1.54.0
 streamlit-searchbox
 yt-dlp
 json-repair
